@@ -1,0 +1,2 @@
+rootProject.name = "pruebas_Exportar_bd"
+include ':app'
